@@ -1,2 +1,2 @@
 # Palindrome_verification
-To chec\k whether a  given number is palindrome or not
+To check whether a  given number is palindrome or not
